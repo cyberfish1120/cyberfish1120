@@ -2,7 +2,7 @@
 ### Hi there, I'm [Cyberfish!](https://github.com/cyberfish1120) 👋
 
 
-<img align="right" height="300px" width="520px" alt="GIF" src="https://github.com/cyberfish1120/cyberfish1120/blob/master/imgs/cyberfish.svg" />
+<img align="right" height="300px" width="520px" alt="GIF" src="https://github.com/cyberfish1120/cyberfish1120/blob/master/img/cyberfish.svg" />
 
 #### - 😎 About me
 - Hangzhou Dianzi University, China
