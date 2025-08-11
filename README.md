@@ -23,4 +23,5 @@
 + Looking for internships...
 
 #### - 💬 Connect me? Here 👉🏼
-+ zhaoziqiang@hdu.edu.cn
++ zqzhao1221@outlook.com
+
